@@ -1,13 +1,17 @@
 {
   "name": "wscraper",
   "description": "wscraper.js: a web scraper agent based on cheerio.js a fast, flexible, and lean implementation of core jQuery; built on top of request.js; inspired by http-agent.js;",
-  "version": "0.1.0",
-  "maintainers": "kalise <adkalise@gmail.com>",  
+  "version": "0.2.0",
+  "maintainers": "kalise <adkalise@gmail.com>",
   "author": "kalise",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janober/wscraper.git"
+  },
   "main": "./lib/wscraper",
   "dependencies": {
     "request": "~2.10.0",
-    "cheerio": "~0.9.2",
+    "cheerio": "~0.18.0",
     "iconv": "~1.2.3"
   },
   "devDependencies": {}
