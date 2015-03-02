@@ -12,7 +12,7 @@
   "dependencies": {
     "request": "~2.10.0",
     "cheerio": "~0.18.0",
-    "iconv": "~1.2.3"
+    "iconv": "~2.1.6"
   },
   "devDependencies": {}
 }
