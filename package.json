@@ -10,9 +10,9 @@
   },
   "main": "./lib/wscraper",
   "dependencies": {
-    "request": "~2.10.0",
-    "cheerio": "~0.18.0",
-    "iconv": "~2.1.6"
+    "request": "~2.79.0",
+    "cheerio": "~0.22.0",
+    "iconv": "~2.2.1"
   },
   "devDependencies": {}
 }
