@@ -1,5 +1,5 @@
 {
-  "name": "wscraper",
+  "name": "wscraper-fishtemp",
   "description": "wscraper.js: a web scraper agent based on cheerio.js a fast, flexible, and lean implementation of core jQuery; built on top of request.js; inspired by http-agent.js;",
   "version": "0.2.0",
   "maintainers": "kalise <adkalise@gmail.com>",
